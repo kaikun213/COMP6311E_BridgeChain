@@ -1,18 +1,18 @@
 [home]
 account = "0x006e27b6a72e1f34c626762f3c4761547aff1421"
-ipc = "/Users/marek/Library/Application Support/io.parity.ethereum/jsonrpc.ipc"
+ipc = "examples/home_rpc.ipc"
 required_confirmations = 0
 
 [home.contract]
-bin = "contracts/EthereumBridge.bin"
+bin = "contracts/HomeBridge.bin"
 
 [foreign]
-account = "0x006e27b6a72e1f34c626762f3c4761547aff1421"
-ipc = "/Users/marek/Library/Application Support/io.parity.ethereum/jsonrpc.ipc"
+account = "0x004ec07d2329997267Ec62b4166639513386F32E"
+ipc = "examples/foreign_rpc.ipc"
 required_confirmations = 0
 
 [foreign.contract]
-bin = "contracts/KovanBridge.bin"
+bin = "contracts/ForeignBridge.bin"
 
 [authorities]
 accounts = [

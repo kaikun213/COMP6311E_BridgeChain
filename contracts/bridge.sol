@@ -152,7 +152,7 @@ contract ForeignBridge {
     address[] public authorities;
 
     /// Ether balances
-    mapping (address => uint) public balances;
+    mapping (address => ) public balances;
 
     /// Pending deposits and authorities who confirmed them
     mapping (bytes32 => address[]) deposits;

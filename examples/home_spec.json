@@ -1,5 +1,5 @@
 {
-	"name": "BridgeExample",
+	"name": "Home_Network",
 	"engine": {
 		"instantSeal": null
 	},
@@ -27,5 +27,8 @@
 		"0000000000000000000000000000000000000003": { "balance": "1", "builtin": { "name": "ripemd160", "pricing": { "linear": { "base": 600, "word": 120 } } } },
 		"0000000000000000000000000000000000000004": { "balance": "1", "builtin": { "name": "identity", "pricing": { "linear": { "base": 15, "word": 3 } } } },
 		"0x006e27b6a72e1f34c626762f3c4761547aff1421": { "balance": "1606938044258990275541962092341162602522202993782792835301376" }
-	}
+	},
+	"nodes": [
+		"enode://bdd821ba5c8a2eb3928dfcdc3e8b66b2ce585a1f51b364bfac2737dd9c47e224274c433c91b9e5ae257e7d653dce1adaba20bb63ee36256d8cd0123c073be506@10.89.232.229:30300"
+	]
 }

@@ -1,0 +1,14 @@
+Name: Admin
+Recovery: node1
+Address: 0x00Aa39d30F0D20FF03a22cCfc30B7EfbFca597C2
+Password: password
+
+Name: User
+Recovery: user
+Address: 0x004ec07d2329997267Ec62b4166639513386F32E
+Password: user
+
+Name: User node 0
+Recovery: node0
+Address: 0x00Bd138aBD70e2F00903268F3Db08f2D25677C9e
+Password: node0

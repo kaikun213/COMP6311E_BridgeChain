@@ -1,0 +1,12 @@
+Name: Tester
+Recovery: tiring species unabashed supreme diabolic octopus embolism drainer lavender machine tummy cavalry
+Address: 0x00F45Bd5275DF201723326741895d085A9AF92C7
+Password: test
+
+Name: Admin
+Recovery: this is sparta
+Address: 0x006E27B6A72E1f34C626762F3C4761547Aff1421
+Password: password
+
+
+

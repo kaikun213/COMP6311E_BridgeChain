@@ -1,0 +1,72 @@
+2017/12/19-12:02:21.335732 7f0766be5d00 RocksDB version: 4.11.2
+2017/12/19-12:02:21.335775 7f0766be5d00 Git sha rocksdb_build_git_sha:dab9465c40b0a8fb7a59b461e516f27ff074274b
+2017/12/19-12:02:21.335778 7f0766be5d00 Compile date Oct 25 2017
+2017/12/19-12:02:21.335780 7f0766be5d00 DB SUMMARY
+2017/12/19-12:02:21.335866 7f0766be5d00 CURRENT file:  CURRENT
+2017/12/19-12:02:21.335869 7f0766be5d00 IDENTITY file:  IDENTITY
+2017/12/19-12:02:21.335873 7f0766be5d00 MANIFEST file:  MANIFEST-000039 size: 1318 Bytes
+2017/12/19-12:02:21.335876 7f0766be5d00 SST files in examples/chains/home/chains/Home_Network/db/b46cc6b448b2ba4b/overlayrecent/db dir, Total Num: 11, files: 000025.sst 000026.sst 000027.sst 000028.sst 000029.sst 000030.sst 000031.sst 000035.sst 000036.sst 
+2017/12/19-12:02:21.335878 7f0766be5d00 Write Ahead Log file in examples/chains/home/chains/Home_Network/db/b46cc6b448b2ba4b/overlayrecent/db: 000042.log size: 90 ; 
+2017/12/19-12:02:21.335881 7f0766be5d00          Options.error_if_exists: 0
+2017/12/19-12:02:21.335883 7f0766be5d00        Options.create_if_missing: 1
+2017/12/19-12:02:21.335884 7f0766be5d00          Options.paranoid_checks: 1
+2017/12/19-12:02:21.335885 7f0766be5d00                      Options.env: 0x55f312ffd1c0
+2017/12/19-12:02:21.335886 7f0766be5d00                 Options.info_log: 0x7f0764ae7640
+2017/12/19-12:02:21.335887 7f0766be5d00           Options.max_open_files: 512
+2017/12/19-12:02:21.335888 7f0766be5d00 Options.max_file_opening_threads: 16
+2017/12/19-12:02:21.335889 7f0766be5d00       Options.max_total_wal_size: 67108864
+2017/12/19-12:02:21.335890 7f0766be5d00        Options.disableDataSync: 0
+2017/12/19-12:02:21.335891 7f0766be5d00              Options.use_fsync: 0
+2017/12/19-12:02:21.335892 7f0766be5d00      Options.max_log_file_size: 0
+2017/12/19-12:02:21.335893 7f0766be5d00 Options.max_manifest_file_size: 18446744073709551615
+2017/12/19-12:02:21.335894 7f0766be5d00      Options.log_file_time_to_roll: 0
+2017/12/19-12:02:21.335895 7f0766be5d00      Options.keep_log_file_num: 1
+2017/12/19-12:02:21.335896 7f0766be5d00   Options.recycle_log_file_num: 0
+2017/12/19-12:02:21.335897 7f0766be5d00        Options.allow_os_buffer: 1
+2017/12/19-12:02:21.335898 7f0766be5d00       Options.allow_mmap_reads: 0
+2017/12/19-12:02:21.335899 7f0766be5d00       Options.allow_fallocate: 1
+2017/12/19-12:02:21.335901 7f0766be5d00      Options.allow_mmap_writes: 0
+2017/12/19-12:02:21.335902 7f0766be5d00          Options.create_missing_column_families: 0
+2017/12/19-12:02:21.335903 7f0766be5d00                              Options.db_log_dir: 
+2017/12/19-12:02:21.335904 7f0766be5d00                                 Options.wal_dir: examples/chains/home/chains/Home_Network/db/b46cc6b448b2ba4b/overlayrecent/db
+2017/12/19-12:02:21.335905 7f0766be5d00                Options.table_cache_numshardbits: 6
+2017/12/19-12:02:21.335906 7f0766be5d00     Options.delete_obsolete_files_period_micros: 21600000000
+2017/12/19-12:02:21.335907 7f0766be5d00              Options.base_background_compactions: 1
+2017/12/19-12:02:21.335908 7f0766be5d00              Options.max_background_compactions: 2
+2017/12/19-12:02:21.335909 7f0766be5d00                      Options.max_subcompactions: 1
+2017/12/19-12:02:21.335911 7f0766be5d00                  Options.max_background_flushes: 2
+2017/12/19-12:02:21.335912 7f0766be5d00                         Options.WAL_ttl_seconds: 0
+2017/12/19-12:02:21.335913 7f0766be5d00                       Options.WAL_size_limit_MB: 0
+2017/12/19-12:02:21.335914 7f0766be5d00             Options.manifest_preallocation_size: 4194304
+2017/12/19-12:02:21.335915 7f0766be5d00                          Options.allow_os_buffer: 1
+2017/12/19-12:02:21.335916 7f0766be5d00                         Options.allow_mmap_reads: 0
+2017/12/19-12:02:21.335917 7f0766be5d00                        Options.allow_mmap_writes: 0
+2017/12/19-12:02:21.335918 7f0766be5d00                      Options.is_fd_close_on_exec: 1
+2017/12/19-12:02:21.335919 7f0766be5d00                    Options.stats_dump_period_sec: 600
+2017/12/19-12:02:21.335920 7f0766be5d00                    Options.advise_random_on_open: 1
+2017/12/19-12:02:21.335921 7f0766be5d00                     Options.db_write_buffer_size: 2048000d
+2017/12/19-12:02:21.335954 7f0766be5d00          Options.access_hint_on_compaction_start: NORMAL
+2017/12/19-12:02:21.335956 7f0766be5d00   Options.new_table_reader_for_compaction_inputs: 0
+2017/12/19-12:02:21.335957 7f0766be5d00                Options.compaction_readahead_size: 0d
+2017/12/19-12:02:21.335958 7f0766be5d00                Options.random_access_max_buffer_size: 1048576d
+2017/12/19-12:02:21.335959 7f0766be5d00               Options.writable_file_max_buffer_size: 1048576d
+2017/12/19-12:02:21.335960 7f0766be5d00                       Options.use_adaptive_mutex: 0
+2017/12/19-12:02:21.335961 7f0766be5d00                             Options.rate_limiter: (nil)
+2017/12/19-12:02:21.335962 7f0766be5d00      Options.sst_file_manager.rate_bytes_per_sec: 0
+2017/12/19-12:02:21.335964 7f0766be5d00                           Options.bytes_per_sync: 0
+2017/12/19-12:02:21.335965 7f0766be5d00                       Options.wal_bytes_per_sync: 0
+2017/12/19-12:02:21.335966 7f0766be5d00                        Options.wal_recovery_mode: 2
+2017/12/19-12:02:21.335967 7f0766be5d00                   Options.enable_thread_tracking: 0
+2017/12/19-12:02:21.335968 7f0766be5d00          Options.allow_concurrent_memtable_write: 0
+2017/12/19-12:02:21.335969 7f0766be5d00       Options.enable_write_thread_adaptive_yield: 0
+2017/12/19-12:02:21.335970 7f0766be5d00              Options.write_thread_max_yield_usec: 100
+2017/12/19-12:02:21.335971 7f0766be5d00             Options.write_thread_slow_yield_usec: 3
+2017/12/19-12:02:21.335972 7f0766be5d00                                Options.row_cache: None
+2017/12/19-12:02:21.335973 7f0766be5d00        Options.wal_filter: None
+2017/12/19-12:02:21.335974 7f0766be5d00                     Options.avoid_flush_during_recovery: 0
+2017/12/19-12:02:21.335975 7f0766be5d00 Compression algorithms supported:
+2017/12/19-12:02:21.335976 7f0766be5d00 	Snappy supported: 1
+2017/12/19-12:02:21.335977 7f0766be5d00 	Zlib supported: 0
+2017/12/19-12:02:21.335978 7f0766be5d00 	Bzip supported: 0
+2017/12/19-12:02:21.335979 7f0766be5d00 	LZ4 supported: 0
+2017/12/19-12:02:21.335980 7f0766be5d00 Fast CRC32 supported: 0

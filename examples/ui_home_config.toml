@@ -1,0 +1,19 @@
+[parity]
+chain = "examples/home_spec.json"
+base_path = "examples/chains/ui_home"
+
+[network]
+port = 30302
+
+[rpc]
+port = 8542
+apis = ["web3", "signer", "eth", "net", "personal", "parity", "parity_set", "traces", "rpc", "parity_accounts"]
+
+[ui]
+port = 8180
+
+[websockets]
+port = 8452
+
+[dapps]
+port = 13330
